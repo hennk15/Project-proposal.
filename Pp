@@ -1,0 +1,11 @@
+  My project proposal deals with sports attendance particularly NBA teams and the factors that affect it and how teams can imporove that alongside other areas on their team.
+ My clients will be NBA sports teams and contractors looking to boost their ticket sales per season. My client will care about my project 
+ because of how it can boost their teams value in regards to players and management from other teams wanting to relocate
+there and play for them. Alongside that they will also care due to how the teams revenue can drasticlly increase due to the adjustments
+advised. The data I will use are Nba teams road and home attendance data, the teams location median household income, the teams revenue,
+the teams operating income, win to player cost ratio, metro area population, player expenses, and the teams roster salary. 
+I will be obtaining all of the data online since it is viewable by the public. My approach to solving my problem is after analysing all
+the data used i will then use the program that I plan on creating will then be able to accurately depict what variable within the team 
+can be improved either it being the location, management or players. Then I will simulate the results that my program advised and run it 
+for a whole season on real life basketball video game called 2k19 due to that being the most accurate and realistic representation of an 
+NBA season with my adjustments I can get. The delivarbles I will have is a python program alongside a slide deck.
